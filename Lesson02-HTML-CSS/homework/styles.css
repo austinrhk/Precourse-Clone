@@ -1,7 +1,7 @@
 h1 {
     color: blue;
 }
- .thirdDiv {
+#thirdDiv {
     width: 400px;
     height: 500px;
     background: red;

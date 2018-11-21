@@ -1,15 +1,18 @@
-h1 {
-    color: blue;
+#divclass {
+    color: black;
+    text-align: center
 }
 #thirdDiv {
-    width: 400px;
-    height: 500px;
-    background: red;
-    background color: black;
-    padding: 50px
-    border: 1px solid black;
+    height: 100px;
+    width: 960px;
+    padding-bottom: 10px;
+    text-align: center
 }
-span id {
-    font size: 18px
-    margin: 50px; 
+#thirdDiv img {
+    border: none;
+    margin: 0 auto;
+}
+#spanid {
+    text-align: center;
+    font-size: 18px;
 }

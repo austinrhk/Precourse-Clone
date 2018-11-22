@@ -1,18 +1,20 @@
 #divclass {
     color: black;
-    text-align: center
-}
-#thirdDiv {
-    height: 100px;
-    width: 960px;
-    padding-bottom: 10px;
-    text-align: center
-}
-#thirdDiv img {
-    border: none;
-    margin: 0 auto;
-}
-#spanid {
     text-align: center;
-    font-size: 18px;
+}
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    margin-left: 1em;
+    text-align: center;
+    list-style-position: inside;
+}
+img {
+    width: 500px;
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

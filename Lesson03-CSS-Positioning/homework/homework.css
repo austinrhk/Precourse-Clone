@@ -1,17 +1,13 @@
-#exercisecontainer {
+.exercisecontainer {
     text-align: center;
 }
-.exerciseTwo {
-    display: block;
+#exerciseTwo {
+    display: none;
 }
-#excerciseThree {
-    position: fixed;
-    top: 100px
+#exerciseThree {
+    position: absolute;
+    top: 100px;
     left: 200px;
-}
-.exerciseFour {
-    position: fixed
-
 }
 
 

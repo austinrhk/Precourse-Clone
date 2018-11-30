@@ -9,17 +9,21 @@
     top: 100px;
     left: 200px;
 }
-
-
-
-/* Exercise Five */
-
-/* Place code here */
-
-
-
-/* Exercise Six */
-
-#exerciseSeven {
-  display: flex;
+#exerciseFour {
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
+#exerciseFive {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: row-reverse
+}
+#exerciseSeven {
+    display: flex;
+    align-items: center
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+

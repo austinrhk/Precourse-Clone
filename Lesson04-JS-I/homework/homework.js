@@ -38,17 +38,17 @@ function add(x, y) {
 
 function subtract(x, y) {
   // subtract y from x and return the value
-  // code here
+  const subtract = x - y;
 }
 
 function multiply(x, y) {
   // multiply x by y and return the value
-  // code here
+  const multiply = x * y;
 }
 
 function divide(x, y) {
   // divide x by y and return the value
-  // code here
+  const divide = x / y;
 }
 
 function areEqual(x, y) {

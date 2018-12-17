@@ -60,7 +60,10 @@ function areEqual(x, y) {
 function areSameLength(str1, str2) {
   // return true if the two strings have the same length
   // otherwise return false
-  // code here
+  const areSameLength{
+    if (str1 = str2) {
+      }
+  }
 }
 
 function lessThanNinety(num) {
